@@ -1,0 +1,47 @@
+# Unreal Engine
+Saved/
+DerivedDataCache/
+Intermediate/
+.vscode/
+.vs/
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.log
+*.tps
+*.pdb
+*.apk
+*.obb
+*.xcodeproj/
+build/
+Binaries/
+Build/
+DerivedDataCache/
+Saved/
+.vs/
+*.xcuserdata/
+*.xcuserstate
+*.idea/
+.vscode/
+
+# Visual Studio
+*.exe
+*.dll
+*.ilk
+*.meta
+*.obj
+*.o
+*.pyc
+
+# Mac
+.DS_Store
+
+# Rider / JetBrains
+.idea/
+
+# Project-specific temporary files
+*.tmp
+*.temp
+
